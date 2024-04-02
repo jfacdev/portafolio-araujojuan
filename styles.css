@@ -1,7 +1,7 @@
 body {
     
     text-align:justify;
-    color:black;
+    color:rgb(0, 0, 0);
     }
 
 .historia {
@@ -10,5 +10,6 @@ body {
 
     margin-right:auto;
     
-    background-color:azure;
+    background-color:rgb(47, 156, 102);
     }
+
