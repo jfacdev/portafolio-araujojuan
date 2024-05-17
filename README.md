@@ -1,26 +1,26 @@
-## ¡Hola! 👋 Soy Juan Araujo
+## Hello! 👋 I'm Juan Araujo
 
-Soy un apasionado del desarrollo web y me gusta crear interfaces atractivas y funcionales. Me encanta convertir ideas en realidad utilizando HTML, CSS y JavaScript. 💻
+I'm passionate about web development and I enjoy creating attractive and functional interfaces. I love turning ideas into reality using HTML, CSS, and JavaScript. 💻
 
-**Mis habilidades:**
+**My skills:**
 
-* HTML: Soy un experto en la estructuración de páginas web semánticamente correctas y accesibles.
-* CSS: Domino las técnicas de diseño web para crear interfaces llamativas y responsivas.
-* JavaScript: Le doy vida a las páginas web con interacciones dinámicas y funcionalidades personalizadas.
+* HTML: I'm an expert in structuring semantically correct and accessible web pages.
+* CSS: I master web design techniques to create eye-catching and responsive interfaces.
+* JavaScript: I bring web pages to life with dynamic interactions and custom functionalities.
 
-**Lo que me apasiona:**
+**What I'm passionate about:**
 
-* Crear experiencias de usuario únicas y memorables.
-* Resolver problemas complejos con soluciones creativas e innovadoras.
-* Aprender nuevas tecnologías y mantenerme actualizado en el mundo del desarrollo web.
+* Creating unique and memorable user experiences.
+* Solving complex problems with creative and innovative solutions.
+* Learning new technologies and staying up-to-date in the world of web development.
 
-**Echa un vistazo a mis proyectos:**
+**Check out my projects:**
 
-* https://github.com/jfacdev/idina
-* https://gitlab.com/jfacdev1/habilcom
+* [https://github.com/jfacdev/idina](https://github.com/jfacdev/idina)
+* [https://gitlab.com/jfacdev1/habilcom](https://gitlab.com/jfacdev1/habilcom)
 
-**¿Quieres colaborar?**
+**Want to collaborate?**
 
-¡Siempre estoy buscando nuevos retos y oportunidades para trabajar en proyectos interesantes! No dudes en contactarme. 
+I'm always looking for new challenges and opportunities to work on interesting projects! Don't hesitate to contact me.
 
-**¡Gracias por tu visita!** 😄
+**Thanks for visiting!** 😄
