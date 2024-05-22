@@ -1,13 +1,14 @@
 h1 {
     color:black;
-    background-color: rgba(128,128,128,0.8);
+    
     width:600px;
     text-align:center;
 }
 body {
     
     text-align:justify;
-    background-repeat:repeat;
+    background: -webkit-linear-gradient(to right, #a2ab58, #636363);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a2ab58, #636363); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     }
 
@@ -19,17 +20,26 @@ body {
     width:800px;
     height:200px;
     
+    
     display:inline-block;
     padding:10px;
 }
 
+p {
+    font-family: "Georgia", serif; /* Choose a readable font, with a fallback */
+    font-size: 18px;              /* Adjust for comfortable reading on screen */
+    line-height: 1.6;             /* Spacing between lines for better flow */
+    text-align: justify;          /* Align text to both edges (optional) */
+    color: #333;                  /* Dark grey text on white background is classic */
+    margin-bottom: 20px;         /* Space between paragraphs */
+  }
+  
 .parrafo_texto {
 
     text-align:left;
     font-size: 16px;
     font-family: Arial, sans-serif;
     color:black;
-    background-color: rgba(128,128,128,0.8);
 }
 
 footer a{
@@ -38,4 +48,11 @@ footer a{
     text-align:left;
     margin-left:auto;
     display:inline-block;
+}
+
+span{
+
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
 }
